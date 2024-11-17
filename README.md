@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmed Ibrahim</h1>
-<h3 align="center">A passionate flutter developer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Ahmed</h1>
+<h3 align="center">A passionate flutter developer with a medical background</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedibarhim&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedibarhim" /> </p>
 
