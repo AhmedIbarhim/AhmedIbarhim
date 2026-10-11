@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A passionate Mobile full stack developer with Flutter & Django having a medical background as a clinical lab specialist</h3>
+<h3 align="center">A passionate Mobile full stack developer with a medical background as a clinical lab specialist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedibarhim&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedibarhim" /> </p>
-
-- 🌱 I’m currently learning **Flutter & Django**
+- 🌱 I’m currently working with **Flutter & Django**
 
 - 💬 Ask me about **anything**
 
